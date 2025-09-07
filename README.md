@@ -1,5 +1,7 @@
 # Procedural Skybox Shader (Unity BRP)
 
+⚠️ This version has been deprecated. Please use this version for the latest update: [Ymne LightingFX](https://github.com/Ymne22/YmneLightingFX-for-Unity-BRP/tree/main)
+
 <div>
   <img src="Screenshots/screenshot_0.gif" width="800"/>
 </div>
